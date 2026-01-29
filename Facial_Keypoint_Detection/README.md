@@ -12,14 +12,9 @@ A deep learning system for detecting 68 facial keypoints using Convolutional Neu
 
 - [Overview](#overview)
 - [Results](#results)
-- [Features](#features)
-- [Project Structure](#project-structure)
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Documentation](#documentation)
-- [Troubleshooting](#troubleshooting)
 
 ---
 
