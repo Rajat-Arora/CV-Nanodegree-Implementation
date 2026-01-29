@@ -34,11 +34,9 @@ Professional PyQt5-based GUI application for detecting facial keypoints in real-
 
 ### Step 1: Complete the installation step from the project root directory
 
-
-
 ### Step 2: Download Pre-trained Model (Optional)
 
-If you have a trained model, place it at:
+Train the model, using 03_train_model.py script which saved the trained model as:
 ```
 saved_models/keypoints_model_best.pt
 ```
@@ -90,7 +88,7 @@ The app will work in **demo mode** without a trained model (showing random keypo
 - CPU: Intel i5 or equivalent
 
 ### Recommended
-- Python 3.9+
+- Python 3.8+
 - 8GB+ RAM
 - NVIDIA GPU (CUDA capable)
 - High-quality webcam (1080p+)

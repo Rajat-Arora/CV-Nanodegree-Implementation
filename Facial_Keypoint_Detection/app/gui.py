@@ -21,9 +21,9 @@ import os
 import sys
 
 # Add parent directory to path to import project modules
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from models import Net
+from core.models import Net
 from app.webcam_detector import WebcamKeypointDetector
 
 
